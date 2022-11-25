@@ -1,0 +1,9 @@
+2022-11-25 15:54:06,588 [1] DEBUG Reading CSV file from : D:\Test\csv\test2.csv
+2022-11-25 15:54:06,607 [1] DEBUG Total Order detail(s) count: 5 from file: D:\Test\csv\test2.csv
+2022-11-25 15:54:06,607 [1] DEBUG Processing Business Rule(s)..........
+2022-11-25 15:54:06,608 [1] DEBUG Total Order(s) : 5
+2022-11-25 15:54:06,609 [1] DEBUG Product: Intelligent Copper Knife , Average Order: 2.4
+2022-11-25 15:54:06,609 [1] DEBUG Product: Small Granite Shoes , Average Order: 0.8
+2022-11-25 15:54:06,609 [1] DEBUG Generating CSV file : D:\Test\csv\0_test2.csv, with content: Intelligent Copper Knife,2.4 
+Small Granite Shoes,0.8 
+
