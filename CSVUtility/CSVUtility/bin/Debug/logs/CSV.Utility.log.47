@@ -1,6 +1,0 @@
-2022-11-25 00:08:15,296 [1] DEBUG Reading CSV file from : D:\Test\csv\test.csv
-2022-11-25 00:08:15,647 [1] DEBUG Total Order detail(s) count: 4 from file: D:\Test\csv\test.csv
-2022-11-25 00:08:15,989 [1] DEBUG Processing Business Rule(s)..........
-2022-11-25 00:08:17,489 [1] DEBUG Brand : Air, Total Order(s) : 2
-2022-11-25 00:08:19,672 [1] DEBUG Brand : BonPied, Total Order(s) : 1
-2022-11-25 00:08:21,561 [1] DEBUG Brand : Pfitzcraft, Total Order(s) : 1

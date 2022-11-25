@@ -1,3 +1,0 @@
-2022-11-24 23:55:42,568 [1] DEBUG Reading CSV file from : D:\Test\csv\test.csv
-2022-11-24 23:55:43,277 [1] DEBUG Total Order detail(s) count: 4 from file: D:\Test\csv\test.csv
-2022-11-24 23:55:44,061 [1] DEBUG Processing Business Rule(s)..........
